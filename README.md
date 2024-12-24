@@ -10,7 +10,3 @@ bTactic umbrella for sub-organizations
     * [Maldua - Main organization](https://github.com/maldua)
     * [Maldua mirror](https://github.com/maldua-mirror)
     * [Maldua suite](https://github.com/maldua-suite)
-
-## Other Organizations
-
-- [StageSoft](https://github.com/stagesoft)
